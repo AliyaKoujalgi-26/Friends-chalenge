@@ -1,1 +1,1 @@
-# Friends-chalenge
+# Friends-challenge
